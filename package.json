@@ -1,0 +1,22 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "ALl The Main Node JS And Importtant In This Part",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "JAY WAGHODE <JOYWAGHODE1999@GMAIL.COM>",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
